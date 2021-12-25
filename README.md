@@ -1,2 +1,2 @@
-# Wordoress_First_Project
+# Wordpress_First_Project
 HTML and CSS skils
